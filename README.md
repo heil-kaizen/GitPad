@@ -90,3 +90,7 @@ No Raydium. No external pools. No middlemen.
 ├── public/
 ├── README.md
 └── package.json
+```
+
+#DEMO
+<img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/951a732f-53eb-48e4-9b68-c0017cec4733" />
